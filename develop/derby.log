@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Sun May 08 18:26:25 IST 2016:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.10.1.1 - (1458268): instance a816c00e-0154-9070-b3a9-0002d4f4d1c8 
+on database directory /Users/vishnu/Documents/kaggle/expediaHotelTypeRecommendationKaggle/develop/metastore_db with class loader org.apache.spark.sql.hive.client.IsolatedClientLoader$$anon$1@7db82f3e 
+Loaded from file:/Users/vishnu/bin/sparks/spark-1.6.0-bin-hadoop2.6/lib/spark-assembly-1.6.0-hadoop2.6.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.7.0_79-b15
+user.dir=/Users/vishnu/Documents/kaggle/expediaHotelTypeRecommendationKaggle/develop
+os.name=Mac OS X
+os.arch=x86_64
+os.version=10.11.4
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
